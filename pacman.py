@@ -1,8 +1,7 @@
 """--------------------- Librerías utilizadas --------------------"""
 from random import choice
-from turtle import Turtle, update, clear, ontimer, setup
-from turtle import hideturtle, tracer, listen, onkey, done
-from graphviz import bgcolor, dot, up, goto
+from turtle import Turtle, update, clear, ontimer, setup, bgcolor, dot
+from turtle import hideturtle, tracer, listen, onkey, done, up, goto
 from freegames import floor, vector
 
 """----------------- Variables, objetos, vectores -----------------"""
