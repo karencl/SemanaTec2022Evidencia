@@ -1,7 +1,9 @@
-from turtle import update, setup, onscreenclick, down
+from turtle import update, setup, onscreenclick, down, color
 from turtle import hideturtle, tracer, done, up, goto, circle
 
 from freegames import line
+
+color('red')
 
 SIZE = 100  # Tamaño del cuadrícula
 
