@@ -12,7 +12,7 @@
   Para poder lograr esto, lo que hice fue multiplicar por 2 el curso del personaje, con la finalidad de que cambiara de casilla más rápidamente. (Esto se puede ver en el for loop de los fantasmas).
 
 
-### Actividad "Juego Tic Tac Toe"
+### Actividad - "Juego Tic Tac Toe"
 
 - En el primer cambio modificamos las librerías y especificamos las que realmente usaríamos, creamos un arreglo que nos van a permitir saber cuando nuestro cuadrito está ocupado, para que ya no se dibuje el círculo o la equis. Después modificamos la función de dibujo de x, para que se centrará nuestro círculo
 a través de una resta de la diferencia de tamaño y quede en el centro. Y pues creamos un if que nos permite saber cuando la casilla del vector esté ocupada y así que no permita que se haga click de nuevo. 
