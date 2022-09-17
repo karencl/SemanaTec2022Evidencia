@@ -10,3 +10,7 @@
 
 
   Para poder lograr esto, lo que hice fue multiplicar por 2 el curso del personaje, con la finalidad de que cambiara de casilla más rápidamente. (Esto se puede ver en el for loop de los fantasmas).
+
+### Actividad - Juego de Pacman
+- En el primer commit los cambios realizados fue el anadir la funcion de contar taps, para esro solo se anadio un contador que desplegaba esta informacion.
+- Para el segundo commit la funcion anadida anadida fue la de inidcar cuando el juego ha terminado, para esto se agrego un contador que contara los pares de cartas encontrados y al llegar a 32 lanza un aviso de "Has ganado!!!"
